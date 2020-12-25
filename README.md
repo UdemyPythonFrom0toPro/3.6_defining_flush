@@ -10,7 +10,9 @@ Both variables contain lists of cards, the first contains five cards on the tabl
 Here are examples of lists that will be written to these variables to test your solution:
 
 ["A_S", "J_H", "7_D", "8_D", "10_D"], ["J_D", "3_D"]
+
 ["10_S", "7_S", "9_H", "4_S", "3_S"], ["K_S", "Q_S"]
+
 ["3_S", "10_H", "10_D", "10_C", "10_S"], ["3_S", "4_D"]
 
 As you can see, each card is written in a specific format.
