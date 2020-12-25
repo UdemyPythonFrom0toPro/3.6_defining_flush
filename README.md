@@ -12,6 +12,7 @@ Here are examples of lists that will be written to these variables to test your 
 ["A_S", "J_H", "7_D", "8_D", "10_D"], ["J_D", "3_D"]
 ["10_S", "7_S", "9_H", "4_S", "3_S"], ["K_S", "Q_S"]
 ["3_S", "10_H", "10_D", "10_C", "10_S"], ["3_S", "4_D"]
+
 As you can see, each card is written in a specific format.
 The first symbol indicates the "face value" of the card.
 Possible values: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A
